@@ -13,6 +13,7 @@ EXTENSIONS="
 @jupyter-voila/jupyterlab-preview@1.1.0
 bqplot@0.5.17
 ipydagred3@0.2.5
+ipyregulartable@0.1.2
 jupyter-matplotlib@0.7.4
 jupyterlab-plotly@4.11.0
 plotlywidget@4.11.0
